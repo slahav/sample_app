@@ -7,6 +7,7 @@ gem 'rails', '3.1.3'
 
 gem 'sqlite3' , '1.3.5'
 gem 'gravatar_image_tag'
+gem 'pg'
 
 
 group :development do
